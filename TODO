@@ -1,2 +1,3 @@
 Making mysql module better to automatically create databases.
 Supporting php54 and httpd24.
+Using template to control www.conf in php-fpm.
