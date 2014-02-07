@@ -1,0 +1,2 @@
+Making mysql module better to automatically create databases.
+Supporting php54 and httpd24.
